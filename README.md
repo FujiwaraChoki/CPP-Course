@@ -16,7 +16,6 @@ MIT License
 Here are a couple Ideas that I will probably code in the future (in C++).
 
 1. ~~Credit Card Validator~~
-2. Simple GUI Application
-3. Digital Calculator
-4. Stopwatch
-5. Currency Converter using an API (or static Convertion)
+2. Digital Calculator
+3. Stopwatch
+4. Currency Converter using an API (or static Convertion)
