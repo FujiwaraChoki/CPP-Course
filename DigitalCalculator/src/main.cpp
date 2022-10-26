@@ -8,6 +8,7 @@ int main(int argc, char** argv) {
     double result;
 
     switch(op) {
+        
         case '+':
             result = num1 + num2;
             break;
