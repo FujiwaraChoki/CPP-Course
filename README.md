@@ -4,7 +4,7 @@ Feel free to check out the source code.
 
 # Boilerplate Generator (C++)
 Run following commands to create a boilerplate C++ Project.
-```
+```bash
 chmod +x create.sh
 ./create.sh $PROJECT_NAME
 ```
